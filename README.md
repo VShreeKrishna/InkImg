@@ -25,17 +25,17 @@ The repository is divided into two main parts:
 - OpenAI API Key
 - Cloudinary Account (for image storage)
 
-### Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/vshreekrishna/inkimg.git
 cd inkimg
 
-### Setup the Server
+## Setup the Server
 Navigate to the server directory:
 cd server
 
-Install server dependencies:
+## Install server dependencies:
 npm install
 
 Create a .env file in the server directory and add the following environment variables:
@@ -50,7 +50,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 Start the server:
 npm start
 
-###Setup the Client
+## Setup the Client
 
 Navigate to the client directory:
 cd client
