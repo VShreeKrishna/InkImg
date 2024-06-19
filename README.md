@@ -1,4 +1,3 @@
-```markdown
 # InkImg
 
 InkImg is a full-stack application that generates images from text using AI. The application consists of a React-based client and a Node.js server that interacts with the OpenAI API for image generation and MongoDB for data storage.
